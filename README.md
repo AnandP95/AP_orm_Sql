@@ -28,10 +28,10 @@ This  AP_orm_sql project is the back-end solution for an e-commerce site develop
 
 
 ## Usage
-
+* Use this command: CD Develop and then run the server.
 * Start the application using "npm  run start".
 * Use tools to test the API endpoints.
-* Here is the image of the  Mockup Readme file :
+
 
 * demo  of the categories video : [https://drive.google.com/file/d/1RPXcZA6fxbs6O7UVDAx44zttFtPDr10J/preview"]
 * demo of the Tags video : ["https://drive.google.com/file/d/1oCoripCiYfPNXmzUSq79gAs3l-8a-fZV/preview"]
